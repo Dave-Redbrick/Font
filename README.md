@@ -40,3 +40,4 @@ fontLoader.load('https://raw.githubusercontent.com/Dave-Redbrick/Font/main/Robot
 ##### EN
 - Roboto_Regular
 - Inter_Regular
+- Junegull_Regular
