@@ -5,7 +5,7 @@ You need to change the URL from github.com to raw.githubusercontent.com
 
 ``` javascript
 const fontLoader = new THREEADDON.FontLoader();
-fontLoader.load('https://raw.githubusercontent.com/Dave-Redbrick/Font/main/Roboto_Regular.json', (font) => {
+fontLoader.load('https://raw.githubusercontent.com/Dave-Redbrick/Font/main/EN/Roboto_Regular.json', (font) => {
     const geometry = new THREEADDON.TextGeometry(
         'I Love ThreeJS',
        {
