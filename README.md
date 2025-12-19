@@ -2,7 +2,7 @@
 
 
 ### You can convert ttf to json(threejs font)
->> https://gero3.github.io/facetype.js/
+> https://gero3.github.io/facetype.js/
 
 
 ### Use tips
