@@ -1,5 +1,7 @@
 # JSON Font Collection for ThreeJS FontLoader
 
+### You can convert ttf to json(threejs font)
+
 ### Use tips
 You need to change the URL from github.com to raw.githubusercontent.com
 
@@ -41,3 +43,4 @@ fontLoader.load('https://raw.githubusercontent.com/Dave-Redbrick/Font/main/EN/Ro
 - Roboto_Regular
 - Inter_Regular
 - Junegull_Regular
+- Tilt Neon_Regular
